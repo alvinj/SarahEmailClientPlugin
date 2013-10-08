@@ -1,0 +1,11 @@
+{ 
+  "accountName": "Ymail Account",
+  "username": "USERNAME",
+  "password": "PASSWORD",
+  "imapServerUrl": "imap.mail.yahoo.com",
+  "minutesBetweenChecks": 5,
+  "protocol": "imaps",
+  "mailbox": "inbox",
+  "usersOfInterest": ["alvinalexander", "fredflinstone"]
+}
+
